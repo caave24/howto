@@ -6,6 +6,8 @@ If you want to build up a library of free to use commercially - textures and pat
 - https://www.playgrnd.tools
 - https://unsplash.com/license
 Unsplash is still good, but it's starting to turn into trash due to AI imagery.
+- https://archive.org/ You need to be really good at checking licensing, be careful stuff is still under copyright on there.. 
+
 
 # howto ::: build simple 3d objects
 - https://blockbench.net/
