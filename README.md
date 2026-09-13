@@ -10,6 +10,7 @@ Unsplash is still good, but it's starting to turn into trash due to AI imagery.
 
 
 # howto ::: build simple 3d objects
+There are many simple ways to make and use 3d objects. For our use case of creating assets for videos, are a lot of tutorials showing how to make 'item'. There is no one making tutorials on how to use it as an interesting way to display information. e.g. look at how Jon Bois uses Google Earth to show data vis. / information.
 - https://blockbench.net/
 ### tutorials:
 - https://www.youtube.com/watch?v=4e924Y_aKKU
