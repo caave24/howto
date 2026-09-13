@@ -4,8 +4,8 @@
 If you want to build up a library of free to use commercially - textures and patterns - I suggest the following tools to start building your asset library:
 - https://texturelabs.org
 - https://www.playgrnd.tools
-Unsplash is still good, but it's starting to turn into trash due to AI imagery.
 - https://unsplash.com/license
+Unsplash is still good, but it's starting to turn into trash due to AI imagery.
 
 # howto ::: build simple 3d objects
 - https://blockbench.net/
