@@ -1,9 +1,11 @@
 # howto
 - see https://github.com/caave24/howto
-- see https://github.com/caave24/scenetemplates/
+- see https://github.com/caave24/styleguide
+- see https://github.com/caave24/scenetemplates
 - see https://github.com/caave24/blockbench-assets
 - see https://youtu.be/F2bhxTAfQ1c?si=WHePMHqEvZOFKV77 [Title Card Experiment / Scene Texture Concepts]
 - see https://github.com/caave24/title-card-ideas
+- see https://github.com/caave24/textures
 ---
 
 # howto ::: build visual asset library
