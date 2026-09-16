@@ -1,4 +1,6 @@
 # howto
+see https://github.com/caave24/howto
+see https://github.com/caave24/scenetemplates/
 
 # howto ::: build visual asset library
 If you want to build up a library of free to use commercially - textures and patterns - I suggest the following tools to start building your asset library:
