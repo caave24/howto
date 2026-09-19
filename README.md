@@ -7,7 +7,7 @@ If you want to build up a library of free to use commercially - textures and pat
 - https://unsplash.com/license
 Unsplash is still good, but it's starting to turn into trash due to AI imagery.
 - https://archive.org/ You need to be really good at checking licensing, be careful stuff is still under copyright on there.
-- https://destockd.com/ Has a better way to search archive.org. I don't agree with reducing traffic to Archive.org, because of the service it provides, but the search is bad, and this is killing those that try to profit off of public domain works by selling them.
+- https://destockd.com/ Has a better way to search archive.org. I don't agree with reducing traffic to Archive.org, because of the service it provides, but the search is bad, and this is killing those that try to profit off of public domain works.
 
 
 # howto ::: build simple 3d objects
